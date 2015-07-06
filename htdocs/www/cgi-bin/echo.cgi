@@ -2,6 +2,6 @@
 
 echo "Content-type: text/html"
 echo ""
-echo "$0"
+echo "Query string: ${QUERY_STRING}"
 
 
